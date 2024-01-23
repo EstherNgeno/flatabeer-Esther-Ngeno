@@ -7,9 +7,9 @@ a local API and building out the frontend for our app, FlataBeer.
 
 ## Demo
 
-Use this gif as an example of how the app should work.
+Use this image as an example.
 
-![demo gif](/assets/demo.gif)
+<img src="https://i.ibb.co/wQ4G0w1/flatiron-brew.png"/>
 
 > To view in VSCode, right click on the README.md file and select "Open Preview".
 
