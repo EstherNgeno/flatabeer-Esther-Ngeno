@@ -15,6 +15,7 @@ Use this gif as an example of how the app should work.
 
 ## Setup
 
+Git clone 
 Run this command to get the backend started:
 
 ```console
