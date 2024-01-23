@@ -15,9 +15,9 @@ Use this gif as an example of how the app should work.
 
 ## Setup
 
-Git clone 
+Fork assignment
+Git clone to your local machine
 Run this command to get the backend started:
-
 ```console
 $ json-server --watch db.json
 ```
